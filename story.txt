@@ -1,0 +1,9 @@
+scene1
+One sunny day you're walking to school when you come across what seems like an ordinary potato on the ground. You usually don't pay much attention to stray vegetables, but something about this potato intrigues you...
+Pick up the potato; scene2@Continue on your way to school; scene3
+scene2
+You pick up the potato and inspect it. It eminates an odd glow from inside, almost like there's a device inside of it radiating a light. You also feel a slight vibration. You wonder what this is.
+Drop the potato and forget about it; scene3@Cut the potato open to see what's inside; scene4
+scene3
+You obviously have better things to do with your day than play with vegetables. So you leave the potato and head on your way to school. You glance at you watch and realize in 2 minutes you'll be late for the first class!
+Run to school, because you don't want to be late; scene5@Take your time and walk, being a few minutes late isn't that big of a deal;scene6
