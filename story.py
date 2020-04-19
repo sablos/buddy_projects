@@ -98,4 +98,4 @@ while not end:
         display_scene(current_scene)
         current_target = choose_option(current_scene)
 
-print("Thank you for reading.")
+print("\n\nThe End.")
