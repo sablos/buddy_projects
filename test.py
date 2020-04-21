@@ -3,6 +3,9 @@ my_dict["color"] = "red"
 my_dict["age"] = 34
 my_dict["name"] = "Paul"
 my_dict["lname"] = "Pedro"
+my_dict["mood"] = "Annoyed"
+
+# changed the code in this file to figure out vs code's github push system
 
 print(my_dict)
 
