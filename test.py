@@ -6,6 +6,7 @@ my_dict["lname"] = "Pedro"
 my_dict["mood"] = "Annoyed"
 
 # changed the code in this file to figure out vs code's github push system
+# ok another comment just to create a step by step guide for the group
 
 print(my_dict)
 
